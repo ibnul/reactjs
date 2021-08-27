@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "ninja blog 1",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos reprehenderit corporis adipisci repellat laborum et, modi quidem atque optio. Magnam soluta, aut perferendis officia totam voluptas ea natus ducimus consectetur?",
+      "author": "mario",
+      "id": 1
+    }
+  ]
+}
